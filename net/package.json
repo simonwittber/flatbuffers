@@ -1,0 +1,8 @@
+{
+  "displayName": "Flat Buffers",
+  "name": "com.google.flatbuffers",
+  "unity": "2021.1",
+  "version": "0.0.0",
+  "description": "Provides a Unity package of Google's FlatBuffers.",
+  "type": "library"
+}
